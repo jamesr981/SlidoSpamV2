@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidoSpam.Api.V1", "SlidoSpam.Api.V1\SlidoSpam.Api.V1.csproj", "{CF791816-6DBB-4AF6-943E-4ED1701544D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidoSapm.Http", "SlidoSapm.Http\SlidoSapm.Http.csproj", "{F00CD142-C1E5-4CAD-A1D7-AF4BE1B76D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF791816-6DBB-4AF6-943E-4ED1701544D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF791816-6DBB-4AF6-943E-4ED1701544D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF791816-6DBB-4AF6-943E-4ED1701544D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF791816-6DBB-4AF6-943E-4ED1701544D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00CD142-C1E5-4CAD-A1D7-AF4BE1B76D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00CD142-C1E5-4CAD-A1D7-AF4BE1B76D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00CD142-C1E5-4CAD-A1D7-AF4BE1B76D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00CD142-C1E5-4CAD-A1D7-AF4BE1B76D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
